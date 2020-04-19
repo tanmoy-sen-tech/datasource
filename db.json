@@ -1,0 +1,144 @@
+
+{
+           "stateList" : [
+            {"stateName":"Jammu & Kashmir",
+            "stateCode":1
+            },
+            {"stateName":"Himachal Pradesh",
+            "stateCode":2
+            },
+            {"stateName":"Punjab",
+            "stateCode":3
+            },
+            {"stateName":"Chandigarh",
+            "stateCode":4
+            },
+            {"stateName":"Uttarakhand",
+            "stateCode":5
+            },
+            {"stateName":"Haryana",
+            "stateCode":6
+            },
+            {"stateName":"Delhi",
+            "stateCode":7
+            },
+            {"stateName":"Rajasthan",
+            "stateCode":8
+            },
+            {"stateName":"Uttar Pradesh",
+            "stateCode":9
+            },
+            {"stateName":"Bihar",
+            "stateCode":10
+            },
+            {"stateName":"Sikkim",
+            "stateCode":11
+            },
+            {"stateName":"Arunachal Pradesh",
+            "stateCode":12
+            },
+            {"stateName":"Manipur",
+            "stateCode":14
+            },
+            {"stateName":"Mizoram",
+            "stateCode":15
+            },
+            {"stateName":"Tripura",
+            "stateCode":16
+            },
+            {"stateName":"Assam",
+            "stateCode":18
+            },
+            {"stateName":"West Bengal",
+            "stateCode":19
+            },
+            {"stateName":"Jharkhand",
+            "stateCode":20
+            },
+            {"stateName":"Orissa",
+            "stateCode":21
+            },
+            {"stateName":"Chhattisgarh",
+            "stateCode":22
+            },
+            {"stateName":"Madhya Pradesh",
+            "stateCode":23
+            },
+            {"stateName":"Gujarat",
+            "stateCode":24
+            },
+            {"stateName":"Maharashtra",
+            "stateCode":27
+            },
+            {"stateName":"Andhra Pradesh (Old)",
+            "stateCode":28
+            },
+            {"stateName":"Karnataka",
+            "stateCode":29
+            },
+            {"stateName":"Goa",
+            "stateCode":30
+            },
+            {"stateName":"Kerala",
+            "stateCode":32
+            },
+            {"stateName":"Tamil Nadu",
+            "stateCode":33
+            },
+            {"stateName":"Puducherry",
+            "stateCode":34
+            },
+            {"stateName":"Telengana",
+            "stateCode":36
+            }
+            ],
+          "existingUser" : [
+            {
+              "userId":123,
+              "userName":"Tanmoy Sen",
+              "userType":"Priority",
+              "userEmail":"tan@gmail.com"
+            },
+            {
+              "userId":456,
+              "userName":"Sundar Raman",
+              "userType":"Priority",
+              "userEmail":"Sundar@gmail.com"
+            },
+            {
+              "userId":789,
+              "userName":"Sergio Ramos",
+              "userType":"Normal",
+              "userEmail":"ramos@gmail.com"
+            },
+            {
+              "userId":910,
+              "userName":"Eric Mendes",
+              "userType":"Priority",
+              "userEmail":"Eric@gmail.com"
+            }, {
+              "userId":789,
+              "userName":"Sergio Ramos",
+              "userType":"Normal",
+              "userEmail":"ramos@gmail.com"
+            },
+            {
+              "userId":910,
+              "userName":"Eric Mendes",
+              "userType":"Priority",
+              "userEmail":"Eric@gmail.com"
+            }, {
+              "userId":789,
+              "userName":"Sergio Ramos",
+              "userType":"Normal",
+              "userEmail":"ramos@gmail.com"
+            },
+            {
+              "userId":910,
+              "userName":"Eric Mendes",
+              "userType":"Priority",
+              "userEmail":"Eric@gmail.com"
+            }
+          ]
+          
+    }
