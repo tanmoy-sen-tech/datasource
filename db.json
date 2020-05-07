@@ -136,7 +136,7 @@
             {
               "userId":456,
               "userName":"Eloise",
-              "userType":"Admin",
+              "userType":"Super Admin",
               "userEmail":"eloise@gmail.com"
             }
           ]
