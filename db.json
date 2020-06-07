@@ -94,49 +94,49 @@
             ],
           "existingUser" : [
             {
-              "userId":123,
+              "userId":"123",
               "userName":"Tanmoy Sen",
               "userType":"Priority",
               "userEmail":"tan@gmail.com"
             },
             {
-              "userId":456,
+              "userId":"456",
               "userName":"Sundar Raman",
               "userType":"Priority",
               "userEmail":"Sundar@gmail.com"
             },
             {
-              "userId":789,
+              "userId":"789",
               "userName":"Sergio Ramos",
               "userType":"Normal",
               "userEmail":"ramos@gmail.com"
             },
             {
-              "userId":910,
+              "userId":"910",
               "userName":"Eric Mendes",
               "userType":"Priority",
               "userEmail":"Eric@gmail.com"
             }, {
-              "userId":779,
+              "userId":"779",
               "userName":"Sergio Roberto",
               "userType":"Normal",
               "userEmail":"roberto@gmail.com"
             },
             {
-              "userId":916,
+              "userId":"916",
               "userName":"Evan rakitic",
               "userType":"Priority",
               "userEmail":"Evan@gmail.com"
             }, {
-              "userId":702,
+              "userId":"702",
               "userName":"jenifer",
               "userType":"Normal",
               "userEmail":"jenifer@gmail.com"
             },
             {
-              "userId":456,
+              "userId":"456",
               "userName":"Eloise",
-              "userType":"Admin",
+              "userType":"Priority",
               "userEmail":"eloise@gmail.com"
             }
           ]
