@@ -1,144 +1,368 @@
-
 {
-           "stateList" : [
-            {"stateName":"Jammu & Kashmir",
-            "stateCode":1
-            },
-            {"stateName":"Himachal Pradesh",
-            "stateCode":2
-            },
-            {"stateName":"Punjab",
-            "stateCode":3
-            },
-            {"stateName":"Chandigarh",
-            "stateCode":4
-            },
-            {"stateName":"Uttarakhand",
-            "stateCode":5
-            },
-            {"stateName":"Haryana",
-            "stateCode":6
-            },
-            {"stateName":"Delhi",
-            "stateCode":7
-            },
-            {"stateName":"Rajasthan",
-            "stateCode":8
-            },
-            {"stateName":"Uttar Pradesh",
-            "stateCode":9
-            },
-            {"stateName":"Bihar",
-            "stateCode":10
-            },
-            {"stateName":"Sikkim",
-            "stateCode":11
-            },
-            {"stateName":"Arunachal Pradesh",
-            "stateCode":12
-            },
-            {"stateName":"Manipur",
-            "stateCode":14
-            },
-            {"stateName":"Mizoram",
-            "stateCode":15
-            },
-            {"stateName":"Tripura",
-            "stateCode":16
-            },
-            {"stateName":"Assam",
-            "stateCode":18
-            },
-            {"stateName":"West Bengal",
-            "stateCode":19
-            },
-            {"stateName":"Jharkhand",
-            "stateCode":20
-            },
-            {"stateName":"Orissa",
-            "stateCode":21
-            },
-            {"stateName":"Chhattisgarh",
-            "stateCode":22
-            },
-            {"stateName":"Madhya Pradesh",
-            "stateCode":23
-            },
-            {"stateName":"Gujarat",
-            "stateCode":24
-            },
-            {"stateName":"Maharashtra",
-            "stateCode":27
-            },
-            {"stateName":"Andhra Pradesh (Old)",
-            "stateCode":28
-            },
-            {"stateName":"Karnataka",
-            "stateCode":29
-            },
-            {"stateName":"Goa",
-            "stateCode":30
-            },
-            {"stateName":"Kerala",
-            "stateCode":32
-            },
-            {"stateName":"Tamil Nadu",
-            "stateCode":33
-            },
-            {"stateName":"Puducherry",
-            "stateCode":34
-            },
-            {"stateName":"Telengana",
-            "stateCode":36
-            }
-            ],
-          "existingUser" : [
-            {
-              "userId":"123",
-              "userName":"Tanmoy Sen",
-              "userType":"Priority",
-              "userEmail":"tan@gmail.com"
-            },
-            {
-              "userId":"456",
-              "userName":"Sundar Raman",
-              "userType":"Priority",
-              "userEmail":"Sundar@gmail.com"
-            },
-            {
-              "userId":"789",
-              "userName":"Sergio Ramos",
-              "userType":"Normal",
-              "userEmail":"ramos@gmail.com"
-            },
-            {
-              "userId":"910",
-              "userName":"Eric Mendes",
-              "userType":"Priority",
-              "userEmail":"Eric@gmail.com"
-            }, {
-              "userId":"779",
-              "userName":"Sergio Roberto",
-              "userType":"Normal",
-              "userEmail":"roberto@gmail.com"
-            },
-            {
-              "userId":"916",
-              "userName":"Evan rakitic",
-              "userType":"Priority",
-              "userEmail":"Evan@gmail.com"
-            }, {
-              "userId":"702",
-              "userName":"jenifer",
-              "userType":"Normal",
-              "userEmail":"jenifer@gmail.com"
-            },
-            {
-              "userId":"456",
-              "userName":"Eloise",
-              "userType":"Priority",
-              "userEmail":"eloise@gmail.com"
-            }
-          ]
-          
+  "stateList": [
+    {
+      "stateName": "Jammu & Kashmir",
+      "stateCode": 1
+    },
+    {
+      "stateName": "Himachal Pradesh",
+      "stateCode": 2
+    },
+    {
+      "stateName": "Punjab",
+      "stateCode": 3
+    },
+    {
+      "stateName": "Chandigarh",
+      "stateCode": 4
+    },
+    {
+      "stateName": "Uttarakhand",
+      "stateCode": 5
+    },
+    {
+      "stateName": "Haryana",
+      "stateCode": 6
+    },
+    {
+      "stateName": "Delhi",
+      "stateCode": 7
+    },
+    {
+      "stateName": "Rajasthan",
+      "stateCode": 8
+    },
+    {
+      "stateName": "Uttar Pradesh",
+      "stateCode": 9
+    },
+    {
+      "stateName": "Bihar",
+      "stateCode": 10
+    },
+    {
+      "stateName": "Sikkim",
+      "stateCode": 11
+    },
+    {
+      "stateName": "Arunachal Pradesh",
+      "stateCode": 12
+    },
+    {
+      "stateName": "Manipur",
+      "stateCode": 14
+    },
+    {
+      "stateName": "Mizoram",
+      "stateCode": 15
+    },
+    {
+      "stateName": "Tripura",
+      "stateCode": 16
+    },
+    {
+      "stateName": "Assam",
+      "stateCode": 18
+    },
+    {
+      "stateName": "West Bengal",
+      "stateCode": 19
+    },
+    {
+      "stateName": "Jharkhand",
+      "stateCode": 20
+    },
+    {
+      "stateName": "Orissa",
+      "stateCode": 21
+    },
+    {
+      "stateName": "Chhattisgarh",
+      "stateCode": 22
+    },
+    {
+      "stateName": "Madhya Pradesh",
+      "stateCode": 23
+    },
+    {
+      "stateName": "Gujarat",
+      "stateCode": 24
+    },
+    {
+      "stateName": "Maharashtra",
+      "stateCode": 27
+    },
+    {
+      "stateName": "Andhra Pradesh (Old)",
+      "stateCode": 28
+    },
+    {
+      "stateName": "Karnataka",
+      "stateCode": 29
+    },
+    {
+      "stateName": "Goa",
+      "stateCode": 30
+    },
+    {
+      "stateName": "Kerala",
+      "stateCode": 32
+    },
+    {
+      "stateName": "Tamil Nadu",
+      "stateCode": 33
+    },
+    {
+      "stateName": "Puducherry",
+      "stateCode": 34
+    },
+    {
+      "stateName": "Telengana",
+      "stateCode": 36
     }
+  ],
+  "existingUser": [
+    {
+      "userId": "123",
+      "userName": "Tanmoy Sen",
+      "userType": "Priority",
+      "userEmail": "tan@gmail.com"
+    },
+    {
+      "userId": "456",
+      "userName": "Sundar Raman",
+      "userType": "Priority",
+      "userEmail": "Sundar@gmail.com"
+    },
+    {
+      "userId": "789",
+      "userName": "Sergio Ramos",
+      "userType": "Normal",
+      "userEmail": "ramos@gmail.com"
+    },
+    {
+      "userId": "910",
+      "userName": "Eric Mendes",
+      "userType": "Priority",
+      "userEmail": "Eric@gmail.com"
+    },
+    {
+      "userId": "779",
+      "userName": "Sergio Roberto",
+      "userType": "Normal",
+      "userEmail": "roberto@gmail.com"
+    },
+    {
+      "userId": "916",
+      "userName": "Evan rakitic",
+      "userType": "Priority",
+      "userEmail": "Evan@gmail.com"
+    },
+    {
+      "userId": "702",
+      "userName": "jenifer",
+      "userType": "Normal",
+      "userEmail": "jenifer@gmail.com"
+    },
+    {
+      "userId": "456",
+      "userName": "Eloise",
+      "userType": "Priority",
+      "userEmail": "eloise@gmail.com"
+    }
+  ],
+  "groups": [
+    {
+      "group_name": "Job_01000abcde_1",
+      "job_id": "Job_01000abcde",
+      "timestamp": "2005_10_30 T 10:45 UTC",
+      "node_count": 5,
+      "nodes": [
+        "jxpnik020h",
+        "sufrbedext",
+        "ll2b5o8n5o",
+        "vr9q7r0zvs",
+        "pd580gwuys"
+      ],
+      "created_by": "tanmoy@gmail.com",
+      "active_status": true,
+      "change_ticket": "ITSK1234567890"
+    },
+    {
+      "group_name": "Job_01000abcde_2",
+      "job_id": "Job_01000abcde",
+      "timestamp": "2005_10_30 T 10:45 UTC",
+      "node_count": 3,
+      "nodes": [
+        "7em6aarbnz",
+        "3wpmpvfj77",
+        "750yr6q1a3"
+      ],
+      "created_by": "tanmoy@gmail.com",
+      "active_status": true,
+      "change_ticket": "ITSK2814567810"
+    },
+    {
+      "group_name": "Job_01000abcde_3",
+      "job_id": "Job_01000abcde",
+      "timestamp": "2005_10_30 T 10:45 UTC",
+      "node_count": 4,
+      "nodes": [
+        "4ocmyp368t",
+        "tra7619ws7",
+        "yesm46bwqb",
+        "5pmlzv7sqi"
+      ],
+      "created_by": "tanmoy@gmail.com",
+      "active_status": false,
+      "change_ticket": "ITSK1514567811"
+    },
+    {
+      "group_name": "Job_02000pqrst_1",
+      "job_id": "Job_02000pqrst",
+      "timestamp": "2005_10_30 T 10:45 UTC",
+      "node_count": 6,
+      "nodes": [
+        "54rbra6enp",
+        "gxtllzi3sa",
+        "taw9kpav5m",
+        "287oqa751w",
+        "d4zbi9hatz",
+        "dm9ldxt3ph"
+      ],
+      "created_by": "Monica",
+      "active_status": true,
+      "change_ticket": "ITSK9217567812"
+    },
+    {
+      "group_name": "Job_02000pqrst_2",
+      "job_id": "Job_02000pqrst",
+      "timestamp": "2005_10_30 T 10:45 UTC",
+      "node_count": 7,
+      "nodes": [
+        "g8zqq196ya",
+        "bmqu4h9c4u",
+        "3gbj9hbo2h",
+        "zm9z7o7xvo",
+        "7vtlgfzad7",
+        "25lz9qj5dg",
+        "1028f2d59g"
+      ],
+      "created_by": "Monica",
+      "active_status": true,
+      "change_ticket": "ITSK9519997813"
+    },
+    {
+      "group_name": "Job_03000xyzrp_1",
+      "job_id": "Job_03000xyzrp",
+      "timestamp": "2005_10_30 T 10:45 UTC",
+      "node_count": 3,
+      "nodes": [
+        "287oqa751w",
+        "d4zbi9hatz",
+        "dm9ldxt3ph"
+      ],
+      "created_by": "tanmoy@gmail.com",
+      "active_status": true,
+      "change_ticket": "ITSK4914594814"
+    },
+    {
+      "group_name": "Job_03000xyzrp_2",
+      "job_id": "Job_03000xyzrp",
+      "timestamp": "2005_10_30 T 10:45 UTC",
+      "node_count": 1,
+      "nodes": [
+        "54rbra6enp"
+      ],
+      "created_by": "tanmoy@gmail.com",
+      "active_status": true,
+      "change_ticket": "ITSK5674567815"
+    },
+    {
+      "group_name": "Job_04000mnopq_1",
+      "job_id": "Job_04000mnopq",
+      "timestamp": "2005_10_30 T 10:45 UTC",
+      "node_count": 2,
+      "nodes": [
+        "jxpnik020h",
+        "sufrbedext"
+      ],
+      "created_by": "Lucy",
+      "active_status": false,
+      "change_ticket": "ITSK5014567816"
+    },
+    {
+      "group_name": "Job_04000mnopq_2",
+      "job_id": "Job_04000mnopq",
+      "timestamp": "2005_10_30 T 10:45 UTC",
+      "node_count": 2,
+      "nodes": [
+        "ll2b5o8n5o",
+        "vr9q7r0zvs"
+      ],
+      "created_by": "Lucy",
+      "active_status": false,
+      "change_ticket": "ITSK9994567817"
+    },
+    {
+      "group_name": "Job_04000mnopq_3",
+      "job_id": "Job_04000mnopq",
+      "timestamp": "2005_10_30 T 10:45 UTC",
+      "node_count": 4,
+      "nodes": [
+        "jxpnik020h",
+        "sufrbedext",
+        "ll2b5o8n5o",
+        "vr9q7r0zvs"
+      ],
+      "created_by": "Lucy",
+      "active_status": false,
+      "change_ticket": "ITSK1364567789"
+    },
+    {
+      "group_name": "Job_05000efghi_1",
+      "job_id": "Job_05000efghi",
+      "timestamp": "2005_10_30 T 10:45 UTC",
+      "node_count": 2,
+      "nodes": [
+        "vr9q7r0zvs",
+        "pd580gwuys"
+      ],
+      "created_by": "Aaron",
+      "active_status": true,
+      "change_ticket": "ITSK9415647810"
+    },
+    {
+      "group_name": "Job_05000efghi_2",
+      "job_id": "Job_05000efghi",
+      "timestamp": "2005_10_30 T 10:45 UTC",
+      "node_count": 7,
+      "nodes": [
+        "g8zqq196ya",
+        "bmqu4h9c4u",
+        "3gbj9hbo2h",
+        "zm9z7o7xvo",
+        "7vtlgfzad7",
+        "25lz9qj5dg",
+        "1028f2d59g"
+      ],
+      "created_by": "Aaron",
+      "active_status": true,
+      "change_ticket": "ITSK5614696810"
+    },
+    {
+      "group_name": "Job_05000efghi_3",
+      "job_id": "Job_05000efghi",
+      "timestamp": "2005_10_30 T 10:45 UTC",
+      "node_count": 3,
+      "nodes": [
+        "jxpnik020h",
+        "sufrbedext",
+        "pd580gwuys"
+      ],
+      "created_by": "Aaron",
+      "active_status": false,
+      "change_ticket": "ITSK5555567817"
+    }
+  ]
+}
