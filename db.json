@@ -173,7 +173,7 @@
   ],
   "groups": [
     {
-      "group_name": "Job_01000abcde_1",
+      "group_name": "_1",
       "job_id": "Job_01000abcde",
       "timestamp": "2005_10_30 T 10:45 UTC",
       "node_count": 5,
@@ -189,7 +189,7 @@
       "change_ticket": "ITSK1234567890"
     },
     {
-      "group_name": "Job_01000abcde_2",
+      "group_name": "_2",
       "job_id": "Job_01000abcde",
       "timestamp": "2005_10_30 T 10:45 UTC",
       "node_count": 3,
@@ -203,7 +203,7 @@
       "change_ticket": "ITSK2814567810"
     },
     {
-      "group_name": "Job_01000abcde_3",
+      "group_name": "_3",
       "job_id": "Job_01000abcde",
       "timestamp": "2005_10_30 T 10:45 UTC",
       "node_count": 4,
@@ -218,7 +218,7 @@
       "change_ticket": "ITSK1514567811"
     },
     {
-      "group_name": "Job_02000pqrst_1",
+      "group_name": "_1",
       "job_id": "Job_02000pqrst",
       "timestamp": "2005_10_30 T 10:45 UTC",
       "node_count": 6,
@@ -235,7 +235,7 @@
       "change_ticket": "ITSK9217567812"
     },
     {
-      "group_name": "Job_02000pqrst_2",
+      "group_name": "_2",
       "job_id": "Job_02000pqrst",
       "timestamp": "2005_10_30 T 10:45 UTC",
       "node_count": 7,
@@ -253,7 +253,7 @@
       "change_ticket": "ITSK9519997813"
     },
     {
-      "group_name": "Job_03000xyzrp_1",
+      "group_name": "_1",
       "job_id": "Job_03000xyzrp",
       "timestamp": "2005_10_30 T 10:45 UTC",
       "node_count": 3,
@@ -267,7 +267,7 @@
       "change_ticket": "ITSK4914594814"
     },
     {
-      "group_name": "Job_03000xyzrp_2",
+      "group_name": "_2",
       "job_id": "Job_03000xyzrp",
       "timestamp": "2005_10_30 T 10:45 UTC",
       "node_count": 1,
@@ -279,7 +279,7 @@
       "change_ticket": "ITSK5674567815"
     },
     {
-      "group_name": "Job_04000mnopq_1",
+      "group_name": "_1",
       "job_id": "Job_04000mnopq",
       "timestamp": "2005_10_30 T 10:45 UTC",
       "node_count": 2,
@@ -292,7 +292,7 @@
       "change_ticket": "ITSK5014567816"
     },
     {
-      "group_name": "Job_04000mnopq_2",
+      "group_name": "_2",
       "job_id": "Job_04000mnopq",
       "timestamp": "2005_10_30 T 10:45 UTC",
       "node_count": 2,
@@ -305,7 +305,7 @@
       "change_ticket": "ITSK9994567817"
     },
     {
-      "group_name": "Job_04000mnopq_3",
+      "group_name": "_3",
       "job_id": "Job_04000mnopq",
       "timestamp": "2005_10_30 T 10:45 UTC",
       "node_count": 4,
@@ -320,7 +320,7 @@
       "change_ticket": "ITSK1364567789"
     },
     {
-      "group_name": "Job_05000efghi_1",
+      "group_name": "_1",
       "job_id": "Job_05000efghi",
       "timestamp": "2005_10_30 T 10:45 UTC",
       "node_count": 2,
@@ -333,7 +333,7 @@
       "change_ticket": "ITSK9415647810"
     },
     {
-      "group_name": "Job_05000efghi_2",
+      "group_name": "_2",
       "job_id": "Job_05000efghi",
       "timestamp": "2005_10_30 T 10:45 UTC",
       "node_count": 7,
@@ -351,7 +351,7 @@
       "change_ticket": "ITSK5614696810"
     },
     {
-      "group_name": "Job_05000efghi_3",
+      "group_name": "_3",
       "job_id": "Job_05000efghi",
       "timestamp": "2005_10_30 T 10:45 UTC",
       "node_count": 3,
