@@ -174,7 +174,7 @@
   "groups": [
     {
       "group_name": "_1",
-      "job_id": "Job_01000abcde",
+      "job_id": "01000abcde",
       "timestamp": "2005_10_30 T 10:45 UTC",
       "node_count": 5,
       "nodes": [
@@ -190,7 +190,7 @@
     },
     {
       "group_name": "_2",
-      "job_id": "Job_01000abcde",
+      "job_id": "01000abcde",
       "timestamp": "2005_10_30 T 10:45 UTC",
       "node_count": 3,
       "nodes": [
@@ -204,7 +204,7 @@
     },
     {
       "group_name": "_3",
-      "job_id": "Job_01000abcde",
+      "job_id": "01000abcde",
       "timestamp": "2005_10_30 T 10:45 UTC",
       "node_count": 4,
       "nodes": [
@@ -219,7 +219,7 @@
     },
     {
       "group_name": "_1",
-      "job_id": "Job_02000pqrst",
+      "job_id": "02000pqrst",
       "timestamp": "2005_10_30 T 10:45 UTC",
       "node_count": 6,
       "nodes": [
@@ -236,7 +236,7 @@
     },
     {
       "group_name": "_2",
-      "job_id": "Job_02000pqrst",
+      "job_id": "02000pqrst",
       "timestamp": "2005_10_30 T 10:45 UTC",
       "node_count": 7,
       "nodes": [
@@ -254,7 +254,7 @@
     },
     {
       "group_name": "_1",
-      "job_id": "Job_03000xyzrp",
+      "job_id": "03000xyzrp",
       "timestamp": "2005_10_30 T 10:45 UTC",
       "node_count": 3,
       "nodes": [
@@ -268,7 +268,7 @@
     },
     {
       "group_name": "_2",
-      "job_id": "Job_03000xyzrp",
+      "job_id": "03000xyzrp",
       "timestamp": "2005_10_30 T 10:45 UTC",
       "node_count": 1,
       "nodes": [
@@ -280,7 +280,7 @@
     },
     {
       "group_name": "_1",
-      "job_id": "Job_04000mnopq",
+      "job_id": "04000mnopq",
       "timestamp": "2005_10_30 T 10:45 UTC",
       "node_count": 2,
       "nodes": [
@@ -293,7 +293,7 @@
     },
     {
       "group_name": "_2",
-      "job_id": "Job_04000mnopq",
+      "job_id": "04000mnopq",
       "timestamp": "2005_10_30 T 10:45 UTC",
       "node_count": 2,
       "nodes": [
@@ -306,7 +306,7 @@
     },
     {
       "group_name": "_3",
-      "job_id": "Job_04000mnopq",
+      "job_id": "04000mnopq",
       "timestamp": "2005_10_30 T 10:45 UTC",
       "node_count": 4,
       "nodes": [
@@ -321,7 +321,7 @@
     },
     {
       "group_name": "_1",
-      "job_id": "Job_05000efghi",
+      "job_id": "05000efghi",
       "timestamp": "2005_10_30 T 10:45 UTC",
       "node_count": 2,
       "nodes": [
@@ -334,7 +334,7 @@
     },
     {
       "group_name": "_2",
-      "job_id": "Job_05000efghi",
+      "job_id": "05000efghi",
       "timestamp": "2005_10_30 T 10:45 UTC",
       "node_count": 7,
       "nodes": [
@@ -352,7 +352,7 @@
     },
     {
       "group_name": "_3",
-      "job_id": "Job_05000efghi",
+      "job_id": "05000efghi",
       "timestamp": "2005_10_30 T 10:45 UTC",
       "node_count": 3,
       "nodes": [
